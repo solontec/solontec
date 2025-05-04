@@ -10,16 +10,16 @@ Me chamo Guilherme Solon, tenho 17 anos e sou natural de São Paulo. Atualmente 
 
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="Java"
+    title="Java" 
     width="40px" 
     style="padding-right: 10px;" 
-    src="https://skillicons.dev/icons?i=java"/>" 
+    src="https://skillicons.dev/icons?i=java"
 />
 <img 
     align="left" 
-    alt="CSS" 
-    title="CSS"
+    alt="Spring" 
+    title="Spring"
     width="40px" 
     style="padding-right: 10px;" 
     src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Spring-Dark.svg" 
@@ -64,7 +64,6 @@ Me chamo Guilherme Solon, tenho 17 anos e sou natural de São Paulo. Atualmente 
     style="padding-right: 10px;" 
     src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg" 
 />
-
 <img 
     align="left" 
     alt="Python" 
@@ -74,6 +73,4 @@ Me chamo Guilherme Solon, tenho 17 anos e sou natural de São Paulo. Atualmente 
     src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Python-Dark.svg" 
 />
 
-
-
-
+<br clear="left"/>
