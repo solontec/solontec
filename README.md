@@ -14,7 +14,7 @@ Me chamo Guilherme Solon, tenho 17 anos e sou natural de São Paulo. Atualmente 
     title="HTML" 
     width="40px" 
     style="padding-right: 10px;" 
-    src="[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)" />" 
+    src="https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev" />" 
 />
 <img 
     align="left" 
