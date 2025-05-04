@@ -65,17 +65,6 @@ Me chamo Guilherme Solon, tenho 17 anos e sou natural de São Paulo. Atualmente 
     src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg" 
 />
 
-
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="" 
-/>
-
-
 <img 
     align="left" 
     alt="Python" 
