@@ -22,7 +22,7 @@ Me chamo Guilherme Solon, tenho 17 anos e sou natural de São Paulo. Atualmente 
     title="CSS"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" 
+    src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Spring-Dark.svg" 
 />
 <img 
     align="left" 
