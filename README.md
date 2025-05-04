@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Guilherme Solon
+# Guilherme Solon
 
 **`Desenvolvedor Back-End`**
 
@@ -6,7 +6,7 @@ Me chamo Guilherme Solon, tenho 17 anos e sou natural de São Paulo. Atualmente 
 
 --
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 languages ​​and technologies
 
 <img 
     align="left" 
