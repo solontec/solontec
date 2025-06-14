@@ -5,7 +5,7 @@
 Me chamo Guilherme Solon, tenho 17 anos e sou natural de São Paulo. Atualmente estou finalizando o ensino médio na Etec , com o curso técnico em informática. Atualmente, estou desenvolvendo diversos projetos elaborados por dentro e fora da instituição na qual estão agregando muito o meu conhecimento! Sou louco por tecnologia desde pequeno e aprendi que é um mundo enorme a se estudar e aprimorar meu conhecimento e experiência.
 Aqui é a minha vitrine, exibindo todas as minhas aplicações e aprendizados constantes, seja bem vindo!
 
---
+
 
 ### 🤖 languages ​​and technologies
 
