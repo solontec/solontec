@@ -7,7 +7,7 @@ Aqui é a minha vitrine, exibindo todas as minhas aplicações e aprendizados co
 
 
 
-### 🤖 languages ​​and technologies
+### languages ​​and technologies
 
 <img 
     align="left" 
