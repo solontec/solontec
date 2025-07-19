@@ -2,8 +2,10 @@
 
 **`Desenvolvedor Back-End`**
 
-Me chamo Guilherme Solon, tenho 17 anos e sou natural de São Paulo. Atualmente estou finalizando o ensino médio na Etec , com o curso técnico em informática. Atualmente, estou desenvolvendo diversos projetos elaborados por dentro e fora da instituição na qual estão agregando muito o meu conhecimento! Sou louco por tecnologia desde pequeno e aprendi que é um mundo enorme a se estudar e aprimorar meu conhecimento e experiência.
-Aqui é a minha vitrine, exibindo todas as minhas aplicações e aprendizados constantes, seja bem vindo!
+My name is Guilherme Solon, I'm 17 years old, and I'm from São Paulo, Brazil. I'm currently finishing high school at Etec, where I'm also taking a technical course in Information Technology. At the moment, I'm working on several projects both inside and outside the institution, which have greatly contributed to my learning!
+
+I've been passionate about technology since I was a child, and I’ve come to understand that it's a vast world full of opportunities to study, grow, and gain experience.
+This is my showcase, where I present all my applications and continuous learning  welcome!
 
 
 
