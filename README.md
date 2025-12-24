@@ -4,7 +4,7 @@
 
 Me chamo Guilherme Solon, tenho 18 anos e sou de São Pulo. Concluí o ensino médio na Etec MCM com o técnico em informática. Atualmente, estou matriculado em Análise e Desenvolvimento de Sistemas na USCS. Atualmente trabalho na resolução de problemas de sistemas, criando softwares escaláveis, e com o principal objetivo de resolver problemas na sociedade, adquirindo experiência e maturidade no mercado.
 
-Sou apaixonada por tecnologia desde criança, e entendi que é um vasto mundo cheio de oportunidades para estudar, crescer e ganhar experiência. Esta é a minha vitrine, onde apresento todas as minhas aplicações e aprendizado contínuo bem-vindo!
+Sou apaixonado por tecnologia desde criança, e entendi que é um vasto mundo cheio de oportunidades para estudar, crescer e ganhar experiência. Esta é a minha vitrine, onde apresento todas as minhas aplicações e aprendizado contínuo bem-vindo!
 
 
 
