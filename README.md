@@ -37,12 +37,12 @@ Sou apaixonado por tecnologia desde criança, e entendi que é um vasto mundo ch
 />
 
 <img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="40px" 
-    style="padding-right: 10px;"
-    src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Python-Dark.svg" 
+  align="left" 
+  alt="JavaScript"
+  title="JavaScript" 
+  width="40px" 
+  style="padding-right: 10px;" 
+  src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" 
 />
 
 <img 
