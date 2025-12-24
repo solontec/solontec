@@ -1,15 +1,14 @@
 # Guilherme Solon
 
-**`Developer Back-End`**
+**`Desenvolvedor Full-Stack`**
 
-My name is Guilherme Solon, I'm 17 years old, and I'm from São Paulo, Brazil. I'm currently finishing high school at Etec, where I'm also taking a technical course in Information Technology. At the moment, I'm working on several projects both inside and outside the institution, which have greatly contributed to my learning!
+Me chamo Guilherme Solon, tenho 18 anos e sou de São Pulo. Concluí o ensino médio na Etec MCM com o técnico em informática. Atualmente, estou matriculado em Análise e Desenvolvimento de Sistemas na USCS. Atualmente trabalho na resolução de problemas de sistemas, criando softwares escaláveis, e com o principal objetivo de resolver problemas na sociedade, adquirindo experiência e maturidade no mercado.
 
-I've been passionate about technology since I was a child, and I’ve come to understand that it's a vast world full of opportunities to study, grow, and gain experience.
-This is my showcase, where I present all my applications and continuous learning  welcome!
-
+Sou apaixonada por tecnologia desde criança, e entendi que é um vasto mundo cheio de oportunidades para estudar, crescer e ganhar experiência. Esta é a minha vitrine, onde apresento todas as minhas aplicações e aprendizado contínuo bem-vindo!
 
 
-### languages ​​and technologies
+
+### Linguagens e Tecnologias
 
 <img 
     align="left" 
