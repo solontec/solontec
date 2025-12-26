@@ -1,6 +1,6 @@
 # Guilherme Solon
 
-**`Desenvolvedor Full-Stack`**
+**`Desenvolvedor Back-end`**
 
 Me chamo Guilherme Solon, tenho 18 anos e sou de São Pulo. Concluí o ensino médio na Etec MCM com o técnico em informática. Atualmente, estou matriculado em Análise e Desenvolvimento de Sistemas na USCS. Atualmente trabalho na resolução de problemas de sistemas, criando softwares escaláveis, e com o principal objetivo de resolver problemas na sociedade, adquirindo experiência e maturidade no mercado.
 
